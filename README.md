@@ -27,16 +27,16 @@ The sales dataset employed for this analysis was structured (dataset was in a ta
 
 The dataset contained the essential datapoints:
 
-Region: The geographical area or division where the store operated
-Market: The specific place, system, or environment where buyers and sellers interact to exchange goods, services, or financial assets within a region.
-Store: A retail establishment where goods and services are sold directly to consumers from which the sales data was collected.
-Trade Date: The specific date on which a transaction involving the buying or selling was made.
-Fiscal Period: The fiscal quarter the trade was made.
-Model: The product model being sold.
-Line of Business (LOB): The category that defines a particular type of product or service offered.
-Day: The day of the week the transaction was made.
-Revenue: The total monetary value generated from the sale.
-Units Sold: The number of units sold for a given transaction.
+- Region: The geographical area or division where the store operated
+- Market: The specific place, system, or environment where buyers and sellers interact to exchange goods, services, or financial assets within a region.
+- Store: A retail establishment where goods and services are sold directly to consumers from which the sales data was collected.
+- Trade Date: The specific date on which a transaction involving the buying or selling was made.
+- Fiscal Period: The fiscal quarter the trade was made.
+- Model: The product model being sold.
+- Line of Business (LOB): The category that defines a particular type of product or service offered.
+- Day: The day of the week the transaction was made.
+- Revenue: The total monetary value generated from the sale.
+- Units Sold: The number of units sold for a given transaction.
 
 
 ### Tools Used
