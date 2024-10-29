@@ -75,5 +75,6 @@ Conditional Functions: IF, IFS
 
 #### 1. Revenue by Region
 ##### Pivot Table: 
-![Screenshot 2024-10-29 140830](https://github.com/user-attachments/assets/33479ce7-aa79-4fb9-b943-a02249314db1)
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/1f637c57-6e25-4ace-abd6-38748d049d18">
+
 
