@@ -66,6 +66,6 @@ EDA involves exploring the Dataset
 7) What is the average revenue by region?
 
 ### Formula Used
-'''
+```
 Average Revenue = Total Revenue / Units Sold
-'''
+```
