@@ -2,7 +2,7 @@
 
 
 ### Project Overview
-This project involves collecting and analyzing sales data from multiple regions, markets, and stores. Its primary objective is to generate insights into revenue, units sold, and transaction categories across different time periods. The analysis emphasizes identifying revenue trends, evaluating sales performance by region, and calculating essential metrics such as average revenue per region, region by units sold, top 10 stores by revenue, revenue by month, etc.
+This project involved collecting and analyzing sales data from multiple regions, markets, and stores. The dataset comprised 30800 records. The primary objective was to generate insights into revenue, units sold, and transaction categories across different time periods. The analysis emphasized identifying revenue trends, evaluating sales performance by region, and calculating essential metrics such as average revenue per region, region by units sold, top 10 stores by revenue, revenue by month, etc.
 
 
 ### Project Significance
@@ -68,7 +68,7 @@ EDA involves exploring the Dataset
 ### Functions Used
 ```
 Autosum: Sum, Average, MAX, MIN
-Conditional Functions: IF, IFS
+Logical Functions: IFS, Switch
 ```
 
 ### Data Visualization
