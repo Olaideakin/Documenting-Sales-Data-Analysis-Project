@@ -93,6 +93,7 @@ Logical Functions: IFS, Switch
 ##### Pivot Table:
 <img width="203" alt="image" src="https://github.com/user-attachments/assets/6a41e23f-d7e1-453c-9ee5-02add044b167">
 
+This showed that Boki has only 2 units sold in 2 years while 4 units were sold in Kwali in 20. A lot of factors could be affecting the sales in those stores which include insurgency, lack of sophiticated machineries, unskilled staffs, remote location and products do not get to those areas as fast as possible or lack of warehouses to store the products. Invesrigation has to be done to ascertain the low sales in those areas to know the intervention plan to put in place
 
 #### Top 5 Markets by Revenue
 ##### Pivot Table:
