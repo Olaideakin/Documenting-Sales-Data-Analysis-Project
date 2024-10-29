@@ -65,7 +65,8 @@ EDA involves exploring the Dataset
 6) What is the line of business by units sold?
 7) What is the average revenue by region?
 
-### Formula Used
+### Functions Used
 ```
-Average Revenue = Total Revenue / Units Sold
+Autosum: Sum, Average
+Conditional Functions: IF, IFS
 ```
