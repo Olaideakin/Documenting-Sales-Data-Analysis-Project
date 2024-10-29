@@ -60,9 +60,9 @@ EDA involves exploring the Dataset
 1) What is the sum of revenue by region?
 2) What is the sum of units sold by region?
 3) What is the top 10 stores by revenue?
-4) What is the bottom 5 stores by revenue?
+4) What is the bottom 5 stores by units sold?
 5) What is the top 5 markets by revenue?
-6) What is the line of business by units sold?
+6) What is the line of business by average units sold and revenue?
 7) What is the average revenue by region?
 
 ### Functions Used
@@ -76,5 +76,32 @@ Conditional Functions: IF, IFS
 #### 1. Revenue by Region
 ##### Pivot Table: 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/1f637c57-6e25-4ace-abd6-38748d049d18">
+
+
+
+#### Units Sold by Region
+##### Pivot Table:
+<img width="191" alt="image" src="https://github.com/user-attachments/assets/bed706a4-a1c4-4b39-88f6-1307aa3c01c2">
+
+
+#### Top 10 Stores by Revenue
+##### Pivot Table:
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/5fe09fbe-43f0-429b-b298-1caa89be52cc">
+
+
+#### Bottom 5 Stores by Units Sold
+##### Pivot Table:
+<img width="203" alt="image" src="https://github.com/user-attachments/assets/6a41e23f-d7e1-453c-9ee5-02add044b167">
+
+
+#### Top 5 Markets by Revenue
+##### Pivot Table:
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/ba0b1f19-7d5a-49f5-ad73-8a26844a27de">
+
+
+#### Line of Business by Average Units Sold and Revenue
+##### Pivot Table:
+<img width="315" alt="image" src="https://github.com/user-attachments/assets/c4e8c13c-c857-45ed-a00f-95de26af2c10">
+
 
 
