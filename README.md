@@ -76,7 +76,8 @@ Logical Functions: IFS, Switch
 #### 1. Revenue by Region
 ##### Pivot Table: 
 ![Screenshot 2024-10-30 111111](https://github.com/user-attachments/assets/17241d2a-930f-46bf-b2b1-5ae9c94ff06b)
-![Screenshot 2024-10-30 111954](https://github.com/user-attachments/assets/fe97071f-4324-4da3-b8af-37d7b108a442
+
+![Screenshot 2024-10-30 111954](https://github.com/user-attachments/assets/fe97071f-4324-4da3-b8af-37d7b108a442)
 
 
 
