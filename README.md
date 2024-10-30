@@ -75,14 +75,52 @@ Logical Functions: IFS, Switch
 
 #### 1. Revenue by Region
 ##### Pivot Table: 
-<img width="190" alt="image" src="https://github.com/user-attachments/assets/1f637c57-6e25-4ace-abd6-38748d049d18">
+![Screenshot 2024-10-30 111111](https://github.com/user-attachments/assets/17241d2a-930f-46bf-b2b1-5ae9c94ff06b)
+![Screenshot 2024-10-30 111954](https://github.com/user-attachments/assets/fe97071f-4324-4da3-b8af-37d7b108a442
+
+
+
+Filtered Pivot Table (Year 2014)
+![Screenshot 2024-10-30 113006](https://github.com/user-attachments/assets/4147045e-dc97-497d-a5b1-89f492c187b3)
+
+
+
+Filtered Chart (Year 2014)
+![Screenshot 2024-10-30 112617](https://github.com/user-attachments/assets/606272cb-37ba-4663-a3d4-47bb35b1847e)
+
+
+
+Filtered Pivot Table (Year 2015)
+![Screenshot 2024-10-30 114031](https://github.com/user-attachments/assets/ff6b936e-1a66-4454-9c1b-7f5e8e93f0a0)
+
+
+
+Filtered Chart (Year 2015)
+![Screenshot 2024-10-30 112646](https://github.com/user-attachments/assets/084555fd-d77f-4999-be8a-8f2b0210b8ec)
 
 
 
 #### Units Sold by Region
 ##### Pivot Table:
-<img width="191" alt="image" src="https://github.com/user-attachments/assets/bed706a4-a1c4-4b39-88f6-1307aa3c01c2">
+![Screenshot 2024-10-30 111147](https://github.com/user-attachments/assets/6ac5a7fb-6f57-4861-a978-44a7557360a5)
+![Screenshot 2024-10-30 111840](https://github.com/user-attachments/assets/8236265d-8c69-4f3c-805a-0a17b4e8242c)
 
+
+Filtered Pivot Table (Year 2014)
+![Screenshot 2024-10-30 113014](https://github.com/user-attachments/assets/8aa348d5-037b-41a0-9c7e-211cc90a4e54)
+
+
+
+Filtered Chart (2014
+![Screenshot 2024-10-30 112742](https://github.com/user-attachments/assets/827f8916-e00d-4cf6-a2fe-d0f420b65391)
+
+
+Filtered Pivot Table (Year 2015)
+![Screenshot 2024-10-30 114043](https://github.com/user-attachments/assets/b01d4b41-4779-42a6-b016-014d1ab4afca)
+
+
+Filtered Chart (2015)
+![Screenshot 2024-10-30 112757](https://github.com/user-attachments/assets/fac1974a-19e6-439b-a647-d0335ce1923e)
 
 #### Top 10 Stores by Revenue
 ##### Pivot Table:
