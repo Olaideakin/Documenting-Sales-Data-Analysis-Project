@@ -112,7 +112,7 @@ Logical Functions: IFS, Switch
 
 
 
-##### Filtered Chart (2014
+##### Filtered Chart (2014)
 ![Screenshot 2024-10-30 112742](https://github.com/user-attachments/assets/827f8916-e00d-4cf6-a2fe-d0f420b65391)
 
 
