@@ -80,22 +80,22 @@ Logical Functions: IFS, Switch
 
 
 
-Filtered Pivot Table (Year 2014)
+##### Filtered Pivot Table (Year 2014)
 ![Screenshot 2024-10-30 113006](https://github.com/user-attachments/assets/4147045e-dc97-497d-a5b1-89f492c187b3)
 
 
 
-Filtered Chart (Year 2014)
+##### Filtered Chart (Year 2014)
 ![Screenshot 2024-10-30 112617](https://github.com/user-attachments/assets/606272cb-37ba-4663-a3d4-47bb35b1847e)
 
 
 
-Filtered Pivot Table (Year 2015)
+##### Filtered Pivot Table (Year 2015)
 ![Screenshot 2024-10-30 114031](https://github.com/user-attachments/assets/ff6b936e-1a66-4454-9c1b-7f5e8e93f0a0)
 
 
 
-Filtered Chart (Year 2015)
+##### Filtered Chart (Year 2015)
 ![Screenshot 2024-10-30 112646](https://github.com/user-attachments/assets/084555fd-d77f-4999-be8a-8f2b0210b8ec)
 
 
@@ -106,20 +106,20 @@ Filtered Chart (Year 2015)
 ![Screenshot 2024-10-30 111840](https://github.com/user-attachments/assets/8236265d-8c69-4f3c-805a-0a17b4e8242c)
 
 
-Filtered Pivot Table (Year 2014)
+##### Filtered Pivot Table (Year 2014)
 ![Screenshot 2024-10-30 113014](https://github.com/user-attachments/assets/8aa348d5-037b-41a0-9c7e-211cc90a4e54)
 
 
 
-Filtered Chart (2014
+##### Filtered Chart (2014
 ![Screenshot 2024-10-30 112742](https://github.com/user-attachments/assets/827f8916-e00d-4cf6-a2fe-d0f420b65391)
 
 
-Filtered Pivot Table (Year 2015)
+##### Filtered Pivot Table (Year 2015)
 ![Screenshot 2024-10-30 114043](https://github.com/user-attachments/assets/b01d4b41-4779-42a6-b016-014d1ab4afca)
 
 
-Filtered Chart (2015)
+##### Filtered Chart (2015)
 ![Screenshot 2024-10-30 112757](https://github.com/user-attachments/assets/fac1974a-19e6-439b-a647-d0335ce1923e)
 
 #### Top 10 Stores by Revenue
